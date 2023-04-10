@@ -1,0 +1,88 @@
+{
+    "plants": [
+        
+        {    "id": 1,
+            "title": "Peperomia Ginny",
+            "price": "25 $",
+            "category": "evergreen",
+            "imgurl": "https://images.pexels.com/photos/1974508/pexels-photo-1974508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 2,
+            "title": "Bird’s Nest Fern",
+            "price": "20 $",
+            "category": "seasoned",
+            "imgurl": "https://images.pexels.com/photos/1048035/pexels-photo-1048035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 3,
+            "title": "Pet Friendly Plant",
+            "price": "15 $",
+            "category": "seasoned",
+            "imgurl": "https://images.pexels.com/photos/797793/pexels-photo-797793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 4,
+            "title": "Large Majesty Palm",
+            "price": "35 $",
+            "category": "evergreen",
+            "imgurl": "https://images.pexels.com/photos/2922353/pexels-photo-2922353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 5,
+            "title": "Peperomia Ginny",
+            "price": "25 $",
+            "category": "seasoned",
+            "imgurl": "https://images.pexels.com/photos/1974508/pexels-photo-1974508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 6,
+            "title": "Bird’s Nest Fern",
+            "price": "20 $",
+            "category": "evergreen",
+            "imgurl": "https://images.pexels.com/photos/1048035/pexels-photo-1048035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 7,
+            "title": "Pet Friendly Plant",
+            "price": "15 $",
+            "category": "evergreen",
+            "imgurl": "https://images.pexels.com/photos/797793/pexels-photo-797793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 8,
+            "title": "Large Majesty Palm",
+            "price": "35 $",
+            "category": "seasoned",
+            "imgurl": "https://images.pexels.com/photos/2922353/pexels-photo-2922353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 9,
+            "title": "Peperomia Ginny",
+            "price": "25 $",
+            "category": "evergreen",
+            "imgurl": "https://images.pexels.com/photos/1974508/pexels-photo-1974508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 10,
+            "title": "Bird’s Nest Fern",
+            "price": "20 $",
+            "category": "seasoned",
+            "imgurl": "https://images.pexels.com/photos/1048035/pexels-photo-1048035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 11,
+            "title": "Pet Friendly Plant",
+            "price": "15 $",
+            "category": "evergreen",
+            "imgurl": "https://images.pexels.com/photos/797793/pexels-photo-797793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "id": 12,
+            "title": "Large Majesty Palm",
+            "price": "35 $",
+            "category": "evergreen",
+            "imgurl": "https://images.pexels.com/photos/2922353/pexels-photo-2922353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+    ]
+}

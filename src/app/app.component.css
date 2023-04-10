@@ -1,0 +1,36 @@
+main {
+    width: 1349px;
+    background-color: #004F44;
+}
+
+header {
+    width: 1349px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 1px;
+}
+
+.nav-link {
+    color: #ffffff;
+    font-family: 'Chillax', sans-serif;
+    justify-content: space-around;
+    font-size: 16px;
+}
+
+.list-of-links {
+    display: flex;
+}
+
+.icons img {
+    padding: 15px;
+}
+

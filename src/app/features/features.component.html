@@ -1,0 +1,15 @@
+<section>
+  <div class="mn">
+    <div *ngFor="let item of data">
+      <img src="{{item.imgurl}}">
+      <p>{{item.title}}</p>
+      <div class="price-btn"> 
+        <p class="price">{{item.price}}</p>
+        <button (click)="addToCart(item)">BUY</button>
+         <button class="cart-add"(click)="addToCart(item)">+</button>
+         
+          <!--<div class="cart-count">{{ getItemCount(item) }}</div>-->
+        </div>
+      </div>
+    </div>
+</section>

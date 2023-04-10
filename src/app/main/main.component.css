@@ -1,0 +1,118 @@
+
+.section-main-page {
+    width: 1349px;
+    height: 600px;
+    background-color: #004F44;
+    position: relative;
+    padding-top: 10px;
+    display: flex;
+}
+
+.capt-heading-section-main {
+    color: #ffffff;
+    font-family: 'Chillax', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 72px;
+    text-align: justify;
+    letter-spacing: 1.5px;
+    width: 400px;
+    padding-left: 100px;
+}
+
+.p-section-main {
+    font-family: 'Franklin Gothic', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.3px;
+    color: #EFF7F5;
+    text-align: justify;
+    padding-left: 100px;
+    width: 400px;
+}
+
+.bn-shop-now {
+    width: 156px;
+    height: 72px;
+    background-color: #EFF7F5;
+    color: #004F44;
+    border-style: none;
+    border: 0px solid #004F44;
+    position: relative;
+    left: 100px;
+}
+
+.bn-explore-pl {
+    width: 156px;
+    height: 72px;
+    background-color: #004F44;
+    color: #EFF7F5;
+    border-style: none;
+    border: 0px solid #004F44;
+    position: relative;
+    left: 100px;
+}
+
+.row {
+    padding-left: 250px;
+    width: 607px;
+    height: 547.19px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.card1 {
+    width: 222.82px;
+    height: 257.41px;
+    background-image: url('src\assets\image_2.png');
+}
+
+.card2 {
+    width: 222.82px;
+    height: 257.41px;
+    background-image: url('src\assets\image_3.png');
+}
+
+.card3 {
+    width: 379.79px;
+    height: 518px;
+    background-image: url('src\assets\image_1.png');
+}
+
+.b-main-new {
+    background-color: #004F44;
+    color: #ffffff;
+    border: none;
+    margin: 5px;
+}
+
+.card3-main {
+    font-family: 'Aclonica', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.3px;
+}
+
+.card3-main-caption {
+    margin-top: 10px;
+    font-family: 'Aclonica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 32px;
+    color: #004F44;
+}
+
+.pattern {
+    position: absolute;
+    width: 115px;
+    height: 115px;
+    top: 461px;
+    left: 590px;
+}

@@ -1,0 +1,22 @@
+<section>
+   <div>
+    <table *ngFor="let item of cartItems" class="cartway">
+        <tr>
+          <td><img src="{{ item.imgurl }}"></td>
+          <td><p class="name">{{ item.title }}</p></td>
+          <!--<td><span class="cart-count">{{getTotal(item.productId).count}}</span></td>
+          <td><span class="cart-item">{{item.price}}</span></td>-->
+        </tr>
+      </table></div>
+    <div>
+        <table class="additionalinf">
+            <tr>
+              <td><p>total: {{ getTotalPrice() }} $</p></td>
+            </tr>
+            <button>checkout</button>
+          </table>
+          
+   
+</div>
+  </section>
+  

@@ -1,0 +1,65 @@
+  section{
+    background-image: url(src\assets\background.jpg);
+    background-size: contain;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    flex-direction: row;
+
+  }
+  button{
+height: 35px;
+border: 1px solid #004F44;
+color:#004F44;
+font-family: 'Aclonica';
+background-color: white;
+  }
+  
+.cartwat{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  img{
+    width: 100px;
+    height: 100px;
+  }
+  table{
+    border: 1px solid #004F44;
+    margin: 10px;
+    width: 600px;
+    background-color: azure;
+  }
+.name{
+  margin: 10px;
+  font-family: 'Aclonica';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 23px;
+  letter-spacing: 0.3px;
+  color:#004F44;
+}
+.price{
+  margin: 10px;
+  font-family: 'Aclonica';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 23px;
+  letter-spacing: 0.3px;
+  color:#004F44;
+}
+.additionalinf{
+  background-color:#004F44;
+  color: floralwhite;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 25px;
+}
+.cart-count{
+  border:1px solid #004F44;
+  font-size: 20px;
+  margin-right: 5px;
+}
