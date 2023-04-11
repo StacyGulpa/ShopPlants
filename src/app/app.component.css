@@ -32,5 +32,13 @@ header {
 
 .icons img {
     padding: 15px;
+    
 }
 
+.countOfItems{
+    color: #ffffff;
+    margin-left: -14px;
+    position: relative;
+    top: -10px;
+    text-decoration:wavy;
+}

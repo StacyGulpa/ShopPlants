@@ -63,3 +63,16 @@ background-color: white;
   font-size: 20px;
   margin-right: 5px;
 }
+.cart-price{
+  text-align: center;
+  font-family: 'Aclonica';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 23px;
+  letter-spacing: 0.3px;
+  color:#004F44; 
+}
+.total{
+  text-align: center;
+}
