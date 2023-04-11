@@ -1,0 +1,40 @@
+button{
+    width: 79px;
+    height: 35px;
+    border: 1px solid #004F44;
+    color:#004F44;
+    font-family: 'Aclonica';
+    background-color: white;
+}
+.login-form{
+    position: relative;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    color:#004F44;
+    font-family: 'Aclonica';
+    background-color: white;
+}
+input{
+    border: 1px solid #004F44;
+    margin: 10px;  
+}
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+.add-or{
+    text-align: center;
+}
+.reg{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}

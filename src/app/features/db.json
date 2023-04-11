@@ -1,88 +1,88 @@
 {
-    "plants": [
-        
-        {    "id": 1,
-            "title": "Peperomia Ginny",
-            "price": "25 $",
-            "category": "evergreen",
-            "imgurl": "https://images.pexels.com/photos/1974508/pexels-photo-1974508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-        },
-        {
-            "id": 2,
-            "title": "Bird’s Nest Fern",
-            "price": "20 $",
-            "category": "seasoned",
-            "imgurl": "https://images.pexels.com/photos/1048035/pexels-photo-1048035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-        },
-        {
-            "id": 3,
-            "title": "Pet Friendly Plant",
-            "price": "15 $",
-            "category": "seasoned",
-            "imgurl": "https://images.pexels.com/photos/797793/pexels-photo-797793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-        },
-        {
-            "id": 4,
-            "title": "Spider Plant",
-            "price": "35 $",
-            "category": "evergreen",
-            "imgurl": "https://images.pexels.com/photos/2253844/pexels-photo-2253844.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-        },
-        {
-            "id": 5,
-            "title": "Snake Plant",
-            "price": "25 $",
-            "category": "seasoned",
-            "imgurl": "https://images.pexels.com/photos/3139367/pexels-photo-3139367.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-        },
-        {
-            "id": 6,
-            "title": "Pothos",
-            "price": "18 $",
-            "category": "evergreen",
-            "imgurl": "https://images.pexels.com/photos/3401161/pexels-photo-3401161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-        },
-        {
-            "id": 7,
-            "title": "Peace Lily",
-            "price": "31 $",
-            "category": "evergreen",
-            "imgurl": "https://images.pexels.com/photos/1869107/pexels-photo-1869107.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-        },
-        {
-            "id": 8,
-            "title": "Chinese Evergreen",
-            "price": "35 $",
-            "category": "seasoned",
-            "imgurl": "https://images.pexels.com/photos/5527550/pexels-photo-5527550.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-        },
-        {
-            "id": 9,
-            "title": "",
-            "price": "24 $",
-            "category": "evergreen",
-            "imgurl": "https://images.pexels.com/photos/6052724/pexels-photo-6052724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-        },
-        {
-            "id": 10,
-            "title": "Philodendron",
-            "price": "12 $",
-            "category": "seasoned",
-            "imgurl": "https://images.pexels.com/photos/2568458/pexels-photo-2568458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-        },
-        {
-            "id": 11,
-            "title": "Rubber Plant",
-            "price": "7 $",
-            "category": "evergreen",
-            "imgurl": "https://images.pexels.com/photos/3686300/pexels-photo-3686300.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
-        },
-        {
-            "id": 12,
-            "title": "Devil's Ivy",
-            "price": "42 $",
-            "category": "evergreen",
-            "imgurl": "https://images.pexels.com/photos/3139367/pexels-photo-3139367.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-        }
-    ]
+  "plants": [
+    {
+      "id": 1,
+      "title": "Peperomia Ginny",
+      "price": "25 $",
+      "category": "evergreen",
+      "imgurl": "https://images.pexels.com/photos/1974508/pexels-photo-1974508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 2,
+      "title": "Bird’s Nest Fern",
+      "price": "20 $",
+      "category": "seasoned",
+      "imgurl": "https://images.pexels.com/photos/1048035/pexels-photo-1048035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "title": "Pet Friendly Plant",
+      "price": "15 $",
+      "category": "seasoned",
+      "imgurl": "https://images.pexels.com/photos/797793/pexels-photo-797793.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "title": "Spider Plant",
+      "price": "35 $",
+      "category": "evergreen",
+      "imgurl": "https://images.pexels.com/photos/2253844/pexels-photo-2253844.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 5,
+      "title": "Snake Plant",
+      "price": "25 $",
+      "category": "seasoned",
+      "imgurl": "https://images.pexels.com/photos/3139367/pexels-photo-3139367.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 6,
+      "title": "Pothos",
+      "price": "18 $",
+      "category": "evergreen",
+      "imgurl": "https://images.pexels.com/photos/3401161/pexels-photo-3401161.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 7,
+      "title": "Peace Lily",
+      "price": "31 $",
+      "category": "evergreen",
+      "imgurl": "https://images.pexels.com/photos/1869107/pexels-photo-1869107.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 8,
+      "title": "Chinese Evergreen",
+      "price": "35 $",
+      "category": "seasoned",
+      "imgurl": "https://images.pexels.com/photos/5527550/pexels-photo-5527550.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 9,
+      "title": "",
+      "price": "24 $",
+      "category": "evergreen",
+      "imgurl": "https://images.pexels.com/photos/6052724/pexels-photo-6052724.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 10,
+      "title": "Philodendron",
+      "price": "12 $",
+      "category": "seasoned",
+      "imgurl": "https://images.pexels.com/photos/2568458/pexels-photo-2568458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 11,
+      "title": "Rubber Plant",
+      "price": "7 $",
+      "category": "evergreen",
+      "imgurl": "https://images.pexels.com/photos/3686300/pexels-photo-3686300.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    },
+    {
+      "id": 12,
+      "title": "Devil's Ivy",
+      "price": "42 $",
+      "category": "evergreen",
+      "imgurl": "https://images.pexels.com/photos/3139367/pexels-photo-3139367.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+  ]
 }

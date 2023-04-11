@@ -1,0 +1,35 @@
+button{
+    height: 35px;
+    border: 1px solid #004F44;
+    color:#004F44;
+    font-family: 'Aclonica';
+    background-color: white;
+    margin-top: 20px;
+}
+button:hover{
+    color: #ffffff;
+    background-color: #004F44;
+}
+.login-form{
+  
+    position: relative;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color:#004F44;
+    font-family: 'Aclonica';
+    background-color: white;
+}
+input{
+    border: 1px solid #004F44;
+    margin: 10px;  
+}
+form{ 
+     margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}

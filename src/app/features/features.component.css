@@ -3,8 +3,7 @@
     font-size: 30px;
   }
   section{
-    width: 1349px;
-
+    width: 1340px;
   }
 
   .price-btn{
@@ -53,6 +52,10 @@ color:#004F44;
 font-family: 'Aclonica';
 background-color: white;
   }
+  button:hover{
+    color: #ffffff;
+    background-color: #004F44;
+}
   .cart-info{
     display: flex;
     flex-direction: row;
